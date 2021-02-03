@@ -1,4 +1,4 @@
-1 - SELECT name, continent, population FROM world
+SELECT name, continent, population FROM world
 
 SELECT name
   FROM world
